@@ -82,4 +82,4 @@ Language: Python 3.10+
 
 
 Author Name
-Amit Yadav (https://github.com/amityadav0099)
+Ayush Mishra (https://github.com/ayushsjs)
