@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+
+# Databases
+*.db
+
+# Uploads (keep folder, ignore files inside)
+data/*
+!data/.gitkeep
+
+# System files
+.DS_Store
+Thumbs.db
